@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="timerVal">timer</string>
+    <string name="startButtonLabel">Start</string>
+    <string name="pauseButtonLabel">Pause</string>
+    <string name="human_btn_label">Play</string>
+    <string name="start_btn_label">Start</string>
+</resources>
